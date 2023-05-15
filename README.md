@@ -1,7 +1,7 @@
   <br>
 </h1>
 <h3 align="center">
-  I'm a passionate Full Stack Developer working for BCG Digital Ventures startup!
+  I'm a passionate Full Stack Developer specialising in JS tech stack!
  </h3>
 
 
