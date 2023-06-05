@@ -15,6 +15,9 @@
   <a href="https://graphql.org/">
     <img src="https://img.shields.io/badge/-GraphQL-brightgreen?style=flat-square" alt="GraphQL">
   </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/NodeJS-black.svg?style=flat-square" alt="NodeJS">
+  </a>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/NextJS-black.svg?style=flat-square" alt="NextJS">
   </a>
